@@ -1,0 +1,25 @@
+{
+  "name": "node-on-exit",
+  "version": "0.0.1",
+  "description": "Node before Exit function executor",
+  "main": "/src/on-exit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dryymoon/node-on-exit.git"
+  },
+  "keywords": [
+    "node",
+    "exit",
+    "before",
+    "handler"
+  ],
+  "author": "Pilipenko Igor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dryymoon/node-on-exit/issues"
+  },
+  "homepage": "https://github.com/Dryymoon/node-on-exit#readme"
+}
