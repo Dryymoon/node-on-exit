@@ -2,7 +2,7 @@
   "name": "node-on-exit",
   "version": "0.0.1",
   "description": "Node before Exit function executor",
-  "main": "/src/on-exit.js",
+  "main": "src/on-exit.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
